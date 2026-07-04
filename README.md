@@ -1,22 +1,116 @@
 <h1 align="center">Hi 👋, I'm Tharusha Nimneth</h1>
-<h3 align="center">A passionate Science Undergraduate student from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khtnimneth&label=Profile%20views&color=0e75b6&style=flat" alt="khtnimneth" /> </p>
+<h3 align="center">
+💻 Computer Science & Physics Undergraduate <br>
+🚀 Aspiring Software Developer | Passionate About Technology & Problem Solving
+</h3>
 
-- 🔭 I’m currently working on **University Student Management System**
-
-- 🌱 I’m currently learning **Computer Science ,Physics**
-
-- 📫 How to reach me **khtnimneth@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tharusha nimneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha nimneth" height="30" width="40" /></a>
-<a href="https://fb.com/tharusha nimneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha nimneth" height="30" width="40" /></a>
-<a href="https://instagram.com/tharusha_nimneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha_nimneth" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+%26+Physics+Student;Learning+C%2C+Java+%26+Web+Development;Building+Projects+One+Step+at+a+Time." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khtnimneth&show_icons=true&locale=en" alt="khtnimneth" /></p>
+## 👨‍💻 About Me
+
+🎓 Undergraduate studying **Computer Science & Physics**
+
+🌱 Currently expanding my knowledge in **C, Java, HTML, CSS, MySQL, Object-Oriented Programming, Git & GitHub**
+
+💻 Passionate about software development, problem solving, and creating practical projects.
+
+🎨 Experienced with **Adobe Photoshop** and **Adobe Illustrator** for creative design.
+
+🚀 My goal is to become a skilled Software Developer by continuously learning and building real-world applications.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,java,html,css,mysql,git,github,vscode"/>
+
+</p>
+
+### 🎨 Design Tools
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Visual Studio Code
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khtnimneth&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtnimneth&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khtnimneth&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khtnimneth&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- C Programming
+- Java Programming
+- Object-Oriented Programming (OOP)
+- MySQL Database
+- HTML & CSS
+- Git & GitHub
+- Software Development Best Practices
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build more software projects
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Learn Full-Stack Development
+- ✅ Contribute to Open Source
+- ✅ Complete my Computer Science & Physics degree
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** khtnimneth@gmail.com
+
+💼 **GitHub:** https://github.com/khtnimneth
+
+---
+
+## 💭 Quote
+
+> *"Learning never exhausts the mind. Every line of code is another step toward innovation."*
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=khtnimneth&label=Profile%20Views&color=3b82f6&style=flat"/>
+
+</p>
